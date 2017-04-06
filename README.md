@@ -57,9 +57,12 @@ Also, softshadow is really expensive to render.
 
 ## gouraud shading
 
-![](28.png "gouraud shading")
+![](28.png "gouraud shading on rabbit")
+
+![](31.png "no gouraud shading on rabbit")
 
 ![](14.png "without gouruad shading on teapot")
+
 
 ![](30.png "gouraud shading on teapot")
 
