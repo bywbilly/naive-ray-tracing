@@ -1,9 +1,13 @@
 # naive-ray-tracing
 A naive ray tracing for VR final project
 
-Implementd soft-shadow, transparency, half-transparency and color-bleeding.
+## Features
 
-Besides, also implementd the gouraud shading, which makes the objects more vivid than flat shading.
+- Soft-shadow, transparency, half-transparency and color-bleeding.
+
+- Containing Box for speed up.
+
+- Gouraud shading, which makes the objects more vivid than flat shading.
 
 
 ## Requirements
