@@ -9,6 +9,8 @@ A naive ray tracing for VR final project
 
 - Gouraud shading, which makes the objects more vivid than flat shading.
 
+- OpenMP multi-process for speed up
+
 
 ## Requirements
 - opencv 2.4.2
