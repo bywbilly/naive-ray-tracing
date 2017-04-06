@@ -3,7 +3,7 @@ A naive ray tracing for VR final project
 
 I have implementd soft-shadow, transparency, half-transparency and color-bleeding.
 
-I have also implementd the ground shading, which makes the objects more vivid than flat shading.
+I have also implementd the gouraud shading, which makes the objects more vivid than flat shading.
 
 Here is some pictures for display.
 
@@ -14,3 +14,9 @@ Here is some pictures for display.
 ![](14.png "with softshadow")
 
 Also, softshadow is really expensice to render.
+
+## transparency, half-transparency
+
+## color-bleeding
+
+## gouraud shading
