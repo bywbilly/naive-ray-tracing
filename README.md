@@ -1,6 +1,11 @@
 # naive-ray-tracing
 A naive ray tracing for VR final project
 
+Implementd soft-shadow, transparency, half-transparency and color-bleeding.
+
+Besides, also implementd the gouraud shading, which makes the objects more vivid than flat shading.
+
+
 ## Requirements
 - opencv 2.4.2
 - This project is build under g++ 4.9.
@@ -25,9 +30,10 @@ Here is the option args:
 - `--ratio = [double] default = 0.75 the sampling rate`
 - `--diffuse_num = [int] default = 0 the number of diffused ray, it may cost too much reandering time if too large`
 
-I have implementd soft-shadow, transparency, half-transparency and color-bleeding.
+You could define the scene yourself in a `.json` file and here is the options args.
 
-I have also implementd the gouraud shading, which makes the objects more vivid than flat shading.
+- `lights` have **color** and **point** property.
+- `objects` have **Body** and **GridSurface** property. **Body** is the object loaded from a obj file, **GridSurface** is the surface instance we use three point to define a plane.
 
 Here is some pictures for display.
 
