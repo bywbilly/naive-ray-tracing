@@ -32,8 +32,10 @@ Here is the option args:
 
 You could define the scene yourself in a `.json` file and here is the options args.
 
-- `lights` have **color** and **point** property.
+- `lights` have **color** and **point** property. **Point** means the postion of the light source.
 - `objects` have **Body** and **GridSurface** property. **Body** is the object loaded from a obj file, **GridSurface** is the surface instance we use three point to define a plane.
+
+Some specific args you could refer to the example json file `teapot.json`.
 
 Here is some pictures for display.
 
