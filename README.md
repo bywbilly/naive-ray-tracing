@@ -15,7 +15,7 @@ Besides, also implementd the gouraud shading, which makes the objects more vivid
 where `Jsonxx` is used to load json file decribing the scene and `OptionParse` is used to handle the project options. And I have already provided the source code in the project.
 
 ## Usage
-`Make`
+`make`
 
 `./ray-tracing input_scene.json output_pic.png [options list]`
 
@@ -45,10 +45,16 @@ Here is some pictures for display.
 
 ![](14.png "with softshadow")
 
-Also, softshadow is really expensice to render.
+Also, softshadow is really expensive to render.
 
 ## transparency, half-transparency
 
+![](27.png "transparency")
+
 ## color-bleeding
 
+![](24.png "color-bleeding")
+
 ## gouraud shading
+
+![](28.png "gouraud shading"(
