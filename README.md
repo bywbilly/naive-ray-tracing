@@ -58,3 +58,9 @@ Also, softshadow is really expensive to render.
 ## gouraud shading
 
 ![](28.png "gouraud shading")
+
+## Acknowledgement
+
+- Thanks Hong Jiang et al. for their `Jsonxx` lib.
+- Thanks Johannes Weibl et al. for their `OptionParser` lib.
+- Thanks professor and classmates for their help.
