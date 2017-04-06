@@ -9,7 +9,7 @@ Here is some pictures for display.
 
 ## Softshadow
 
-![](1.png "without softshadow")
-![](14.png "with softshadow")
+![](1.png without softshadow)
+![](14.png with softshadow)
 
 Also, softshadow is really expensice to render.
