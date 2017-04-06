@@ -39,7 +39,7 @@ Some specific args you could refer to the example json file `teapot.json`.
 
 Here is some pictures for display.
 
-Because of the cost of reandering, I am sorry I couldn't render every picture with soft-shadow.
+Because of the **cost of reandering**, I am sorry I couldn't render every picture **with soft-shadow**.
 
 ## Softshadow
 
