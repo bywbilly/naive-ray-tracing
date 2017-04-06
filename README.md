@@ -57,4 +57,4 @@ Also, softshadow is really expensive to render.
 
 ## gouraud shading
 
-![](28.png "gouraud shading"(
+![](28.png "gouraud shading")
