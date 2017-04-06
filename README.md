@@ -2,20 +2,20 @@
 A naive ray tracing for VR final project
 
 ## Requirements
-	- opencv 2.4.2
-	- This project is build under g++ 4.9.
-	- Jsonxx
-	- OptionParse
+- opencv 2.4.2
+- This project is build under g++ 4.9.
+- Jsonxx
+- OptionParse
 
-	where `Jsonxx` is used to load json file decribing the scene and `OptionParse` is used to handle the project options. And I have already provided the source code in the project.
+where `Jsonxx` is used to load json file decribing the scene and `OptionParse` is used to handle the project options. And I have already provided the source code in the project.
 
 ## Usage
-	`Make`
-	`./ray-tracing input_scene.json output_pic.png [options list]`
+`Make`
+`./ray-tracing input_scene.json output_pic.png [options list]`
 
-	Here is the option args:
+Here is the option args:
 
-	- `--width = [int] default = 640`
+- `--width = [int] default = 640`
 
 I have implementd soft-shadow, transparency, half-transparency and color-bleeding.
 
