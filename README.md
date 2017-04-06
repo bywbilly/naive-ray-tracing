@@ -9,7 +9,9 @@ A naive ray tracing for VR final project
 
 - Gouraud shading, which makes the objects more vivid than flat shading.
 
-- OpenMP multi-process for speed up
+- OpenMP multi-process for speed up.
+
+- GridSurface and ImageSurface.
 
 
 ## Requirements
@@ -76,6 +78,11 @@ Also, softshadow is really expensive to render.
 ![](33.png)
 
 ![](34.png)
+
+## ImageSurface
+
+![](19.png)
+
 ## Acknowledgement
 
 - Thanks Hong Jiang et al. for their `Jsonxx` lib.
