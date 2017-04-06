@@ -59,6 +59,10 @@ Also, softshadow is really expensive to render.
 
 ![](28.png "gouraud shading")
 
+![](14.png "without gouruad shading on teapot")
+
+![](30.png "gouraud shading on teapot")
+
 ## Acknowledgement
 
 - Thanks Hong Jiang et al. for their `Jsonxx` lib.
